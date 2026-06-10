@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+
+# Logs
+logs/
+*.log
+
+# Model / Dataset
+*.pkl
+*.csv
+
+# Zip
+*.zip
+
+# System
+.DS_Store
+Thumbs.db
